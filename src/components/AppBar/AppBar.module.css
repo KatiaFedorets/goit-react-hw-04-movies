@@ -1,0 +1,23 @@
+.header {
+  /* position: fixed; */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* box-shadow: 0 8px 6px -6px black; */
+  /* padding: 20px;
+  margin-bottom: 20px; */
+  background-color: #fff;
+}
+/* 
+.header a {
+  padding: 10px;
+  text-decoration: none;
+  margin-right: 8px;
+  font-size: 18px;
+  color: #000;
+  font-weight: 600;
+} */
+
+/* .header a.active {
+  color: #ff4c4c;
+} */

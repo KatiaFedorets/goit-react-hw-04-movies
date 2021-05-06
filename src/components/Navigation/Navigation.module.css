@@ -1,0 +1,19 @@
+.Navigation_items {
+  margin-left: 20 px;
+}
+
+.NavLink {
+  font-size: 20px;
+  color: currentColor;
+  margin-left: 20 px;
+}
+
+.NavLink__active {
+  color: palevioletred;
+}
+
+.Navigation_list {
+  display: flex;
+  list-style: none;
+  padding-left: 40 px;
+}
